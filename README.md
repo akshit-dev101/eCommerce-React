@@ -1,11 +1,14 @@
-# E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+# eCommerce-React
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is an react project using Commerce.js
 
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
+## React.js
+Frontend Framework
 
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+## Commerce.js 
+Handles Commerce Logic i.e Cart, Checkout
+## Stripe
+Handles payments
+
+### [Live Site]()
